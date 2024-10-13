@@ -1,5 +1,4 @@
-# Complete-MLOps-BootCamp
-Zero to Hero!
+# MLOps zero to hero!
 
 [Basic]
 - docker&compose
